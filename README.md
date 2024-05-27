@@ -14,4 +14,7 @@ This is a basic backend web application for managing user details. The app is bu
 - Node.js and npm installed
 - MongoDB installed and running
 
+# Home page
 
+
+![Screenshot 2024-05-27 135941](https://github.com/himanshu-10/Backend-Mini-Project-1/assets/107209209/13787c26-edae-4a17-b474-b568bbe1322c)
